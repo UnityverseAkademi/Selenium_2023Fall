@@ -1,5 +1,6 @@
 package tests.day04_jUnitFramework_dropdown;
 
+import com.fasterxml.jackson.annotation.JsonTypeInfo;
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.junit.AfterClass;
 import org.junit.Assert;
